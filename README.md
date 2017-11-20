@@ -1,2 +1,3 @@
 # hello-world
-newest to github, following tuto
+Newest to github, following tuto
+Well hello there, this is a nice experience so far.
